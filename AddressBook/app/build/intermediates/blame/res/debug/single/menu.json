@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\Mobile\\5\\AddressBook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\display_contact.xml",
+        "source": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\menu\\display_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mainmenu.xml",
+        "source": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\menu\\mainmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\chinni\\Desktop\\AddressBook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mainmenu.xml",
+        "source": "C:\\Users\\chinni\\Desktop\\AddressBook\\app\\src\\main\\res\\menu\\mainmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Liszt.Si\\Desktop\\AddressBook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mainmenu.xml",
+        "source": "C:\\Users\\Liszt.Si\\Desktop\\AddressBook\\app\\src\\main\\res\\menu\\mainmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\display_contact.xml",
+        "source": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\menu\\display_contact.xml"
+    },
+    {
+        "merged": "E:\\Mobile\\5\\AddressBook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mainmenu.xml",
+        "source": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\menu\\mainmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\chinni\\Desktop\\AddressBook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\display_contact.xml",
+        "source": "C:\\Users\\chinni\\Desktop\\AddressBook\\app\\src\\main\\res\\menu\\display_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Liszt.Si\\Desktop\\AddressBook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\display_contact.xml",
+        "source": "C:\\Users\\Liszt.Si\\Desktop\\AddressBook\\app\\src\\main\\res\\menu\\display_contact.xml"
+    }
+]

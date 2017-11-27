@@ -1,0 +1,106 @@
+[
+    {
+        "outputFile": "E:\\Mobile\\5\\AddressBook\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "E:\\Mobile\\5\\AddressBook\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 366
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Liszt.Si\\Desktop\\AddressBook\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "C:\\Users\\Liszt.Si\\Desktop\\AddressBook\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 366
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\chinni\\Desktop\\AddressBook\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "C:\\Users\\chinni\\Desktop\\AddressBook\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 366
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\Downloads\\AddressBook-master\\AddressBook-master\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 366
+                    }
+                }
+            }
+        ]
+    }
+]
